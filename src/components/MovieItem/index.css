@@ -1,1 +1,8 @@
-/* Write your CSS here */
+.thumbnail-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+.popup-close-btn {
+  display: flex;
+  justify-content: flex-end;
+}
